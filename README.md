@@ -48,5 +48,3 @@ This project uses the following technologies and libraries:
   - `ta` for technical analysis indicators
 
 ---
-
-Let me know if you'd like to expand other sections as well (like **Features**, **Model Evaluation**, or **How It Works**)!
